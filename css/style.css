@@ -27,8 +27,8 @@ body.w {
 body {
     position: absolute;
     overflow: hidden;
-    background: url(https://i.328888.xyz/2023/03/27/iniTAN.jpeg);
-    background-size: cover;
+    /* background: url(https://i.328888.xyz/2023/03/27/iniTAN.jpeg); */
+    background: linear-gradient(45deg, #d3959b 20%, #bfe6ba);
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
